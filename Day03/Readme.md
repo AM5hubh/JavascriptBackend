@@ -17,5 +17,9 @@ Database Connection:-
         Database Connection
         wrap in try catch to resolve problems
         async await is must
+
+Middleware
+    cookie parser
+    cors
     
     
