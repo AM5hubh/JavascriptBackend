@@ -21,5 +21,16 @@ Database Connection:-
 Middleware
     cookie parser
     cors
-    
-    
+    Pre hook mongoose //    
+Video
+    Mongoose aggregate paginate v2
+    npm i mongoose-aggregate-paginate-v2
+
+User
+    bcrypt //helps to hash password
+    node.bcrypt.js
+    npm install bcrypt
+
+    jwt(Json web token) //creates bearer token
+
+ 
