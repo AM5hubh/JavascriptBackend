@@ -33,4 +33,10 @@ User
 
     jwt(Json web token) //creates bearer token
 
+
+FIle upload:
+    cloudinary
+    express-fileupload
+    multer  npm i multer
+
  
